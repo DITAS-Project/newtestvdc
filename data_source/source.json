@@ -9,7 +9,7 @@
 		"port": "8086",
 		"user": "defaultdbuser ",
 		"password": "****",
-		database": "defaultdb"
+		"database": "defaultdb"
 	},
 	"schema": ""
 }
