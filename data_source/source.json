@@ -1,0 +1,15 @@
+{
+	"id": "MachineTimeseriesDatabase - Kelly",
+	"description": "Machine timeseries database (InfluxDB) for Kelly (HW11)",
+	"location": "edge",
+	"class": "time-series database",
+	"type": "InfluxDB",
+	"parameters": {
+		"ip": "172.16.33.125",
+		"port": "8086",
+		"user": "defaultdbuser ",
+		"password": "****",
+		database": "defaultdb"
+	},
+	"schema": ""
+}
